@@ -1,7 +1,4 @@
 ## Hey 👋, I'm Sumith S Devadiga!
-<a href='https://www.linkedin.com/in/sumith-devadiga-a3a316231/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/Sumith-2003'><img align='left' alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height='18px'/></a>
-
 I am a passionate **Software Developer** specializing in **Full Stack Web Development**, **DBMS**, **Networking**, and **Cloud Computing**. I enjoy building scalable applications and optimizing system performance. 
 
 <br/>
