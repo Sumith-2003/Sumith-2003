@@ -16,7 +16,7 @@ I am a passionate **Software Developer** specializing in **Full Stack Web Develo
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/Sumith-2003?tab=repositories)
 - 💬 &nbsp; Ask me about **Web Development, DBMS, Networking, or AI-based solutions**
 - 📫 &nbsp; Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)
-- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1dHqJAoHivNkJjMzyfLX-rumnjescG9iI/view)
 
 <br>
 
