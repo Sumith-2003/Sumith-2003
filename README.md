@@ -51,4 +51,11 @@ I am a passionate **Software Developer** specializing in **Full Stack Web Develo
 - [Collaborative Blog Writing System](https://github.com/Sumith-2003/BLOG-APP.git) - Secure and feature-rich blogging platform.
 
 ---
+### 📬 Contact Me:
+📧 Email: sumith07devadiga@gmail.com  
+💼 LinkedIn: [Sumith S Devadiga](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)  
+🐙 GitHub: [Sumith-2003](https://github.com/Sumith-2003)  
+
+
+---
 ⭐ **Let's connect and build amazing things together!** 🚀
