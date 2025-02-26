@@ -1,82 +1,70 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://portfolio-website-nine-gules.vercel.app/)
+![Cyberpunk Banner](https://source.unsplash.com/1600x500/?cyberpunk,neon)
 
-# 👋 Hi, I'm Sumith S Devadiga  
+<h1 align="center">👾 Sumith S Devadiga 👾</h1>
 
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-📍 Mangalore, India  
-
-🚀 Passionate about **AI, Machine Learning, and Software Development**  
-💡 Exploring **Legacy Code Migration, Blockchain, and Web Development**  
-
----
-
-## 🏆 About Me  
-I'm a passionate developer who enjoys building AI-driven solutions and optimizing software applications. My expertise includes **React.js, Python, Java, and Machine Learning**, and I love working on innovative projects.
-
----
-
-## 🛠 Tech Stack  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-
----
-
-## 📌 Featured Projects  
-### **🚀 Legacy Code Migration using ML**  
-🔹 AI-driven solution for automating the migration of **legacy code** from Delphi, Cobol, and VB to **modern languages like Python & Java**.  
-🔹 **Technologies:** Python, Machine Learning, Flask, React.js  
-🔗 [GitHub Repo](https://github.com/Sumith-2003/Legacy-Code-Migration)  
-
-### **🛳 Cargo Connect**  
-🔹 A **logistics platform** that connects shippers and carriers across India.  
-🔹 **Technologies:** React.js, Node.js, Express.js, MongoDB  
-🔗 [GitHub Repo](https://github.com/Sumith-2003/Cargo-Connect)  
-
----
-
-## 📊 GitHub Stats  
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumith-2003&show_icons=true&layout=compact" alt="Sumith-2003"/>
-</p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumith-2003&show_icons=true&locale=en" alt="Sumith-2003"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=0FF0FC&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Cyberpunk+Enthusiast;Full-Stack+Web+Developer;Machine+Learning+Explorer;Always+Learning+New+Tech"/>
 </p>
 
 ---
 
-## 📫 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/sumith-devadiga-a3a316231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumith-devadiga" height="30" width="40" /></a>
-  <a href="mailto:sumith07devadiga@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+## 🌌 About Me
+```yaml
+name: Sumith S Devadiga
+location: Mangalore, India
+role: Software Developer | Full-Stack Enthusiast
+interests:
+  - Cyberpunk Aesthetics
+  - Machine Learning & AI
+  - Web Development
+  - Cloud Computing
+  - Ethical Hacking
+tech_stack:
+  - languages: [Java, C, C++, Python, JavaScript]
+  - frameworks: [React.js, Node.js, Express.js]
+  - databases: [MongoDB, MySQL]
+  - tools: [Git, VS Code, Postman, Jupyter Notebook]
+```
+
+---
+
+## 🛠️ Tech Stack
+
+```css
+💻 Languages:    Java | C | C++ | Python | JavaScript
+🖥️ Frontend:    React.js | HTML | CSS | Tailwind
+🛠️ Backend:     Node.js | Express.js
+🗄️ Databases:   MongoDB | MySQL
+🚀 Tools:       Git | Postman | Jupyter Notebook | VS Code
+```
+
+---
+
+## 🔥 Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sumith-2003&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumith-2003&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumith-2003&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-🔥 **Let's build something amazing together!** 🚀
+## 🚀 Connect With Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumith-2003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumith07devadiga@gmail.com)
 
-<!--
-**Sumith-2003/Sumith-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" height="200"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<i>"The future is already here – it's just not evenly distributed." – William Gibson</i>
+</p>
