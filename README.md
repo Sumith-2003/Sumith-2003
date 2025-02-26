@@ -95,7 +95,7 @@ I am a passionate **Software Developer** specializing in **Full Stack Web Develo
 ### 🛠️ My Projects
 - [Legacy Code Migration using ML](https://github.com/Sumith-2003/Legacy-Code-Migration.git) - AI-driven solution to automate code migration.
 - [Movie-Library](https://github.com/Sumith-2003/Movie-Library.git) - Full-stack movie-sharing platform.
-- [Gym Management System](https://github.com/Sumith-2003) - A user-friendly fitness management system.
+- [Food Nutrition Analysis](https://github.com/Sumith-2003/Food-Nutrition-Analysis) - A food nutrition analyzer.
 - [Collaborative Blog Writing System](https://github.com/Sumith-2003/BLOG-APP.git) - Secure and feature-rich blogging platform.
 
 ---
