@@ -1,3 +1,5 @@
+## Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://portfolio-website-nine-gules.vercel.app/)
 ## Hey 👋, I'm Sumith S Devadiga!
 I am a passionate **Software Developer** specializing in **Full Stack Web Development**, **DBMS**, **Networking**, and **Cloud Computing**. I enjoy building scalable applications and optimizing system performance. 
 
