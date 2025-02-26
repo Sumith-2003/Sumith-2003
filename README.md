@@ -1,6 +1,10 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://portfolio-website-nine-gules.vercel.app/)
+
 # 👋 Hi, I'm Sumith S Devadiga  
 
-🎓 **Bachelor of Engineering in Information Science**  
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 📍 Mangalore, India  
 
 🚀 Passionate about **AI, Machine Learning, and Software Development**  
@@ -8,22 +12,57 @@
 
 ---
 
-# 💫 About Me:
-I'm a passionate developer who enjoys building AI-driven solutions and optimizing software applications. My expertise includes React.js, Python, Java, and Machine Learning, and I love working on innovative projects.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumith-devadiga-a3a316231/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sumith07devadiga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumith07devadiga@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumith-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sumith-2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumith-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 About Me  
+I'm a passionate developer who enjoys building AI-driven solutions and optimizing software applications. My expertise includes **React.js, Python, Java, and Machine Learning**, and I love working on innovative projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sumith-2003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠 Tech Stack  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+---
+
+## 📌 Featured Projects  
+### **🚀 Legacy Code Migration using ML**  
+🔹 AI-driven solution for automating the migration of **legacy code** from Delphi, Cobol, and VB to **modern languages like Python & Java**.  
+🔹 **Technologies:** Python, Machine Learning, Flask, React.js  
+🔗 [GitHub Repo](https://github.com/Sumith-2003/Legacy-Code-Migration)  
+
+### **🛳 Cargo Connect**  
+🔹 A **logistics platform** that connects shippers and carriers across India.  
+🔹 **Technologies:** React.js, Node.js, Express.js, MongoDB  
+🔗 [GitHub Repo](https://github.com/Sumith-2003/Cargo-Connect)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumith-2003&show_icons=true&layout=compact" alt="Sumith-2003"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumith-2003&show_icons=true&locale=en" alt="Sumith-2003"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/sumith-devadiga-a3a316231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumith-devadiga" height="30" width="40" /></a>
+  <a href="mailto:sumith07devadiga@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+</p>
+
+---
+
+🔥 **Let's build something amazing together!** 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
