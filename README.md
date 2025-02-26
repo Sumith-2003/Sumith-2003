@@ -44,11 +44,14 @@ I am a passionate **Software Developer** specializing in **Full Stack Web Develo
 
 <br>
 
-### 🛠️ My Projects
-- [Legacy Code Migration using ML](https://github.com/Sumith-2003/Legacy-Code-Migration.git) - AI-driven solution to automate code migration.
-- [Movie-Library](https://github.com/Sumith-2003/Movie-Library.git) - Full-stack movie-sharing platform.
-- [Food Nutrition Analysis](https://github.com/Sumith-2003/Food-Nutrition-Analysis) - A food nutrition analyzer.
-- [Collaborative Blog Writing System](https://github.com/Sumith-2003/BLOG-APP.git) - Secure and feature-rich blogging platform.
+---
+
+### 📞 Contact Me
+
+📧 **Email**: [sumith07devadiga@gmail.com](mailto:sumith07devadiga@gmail.com)  
+📞 **Phone**: +91 9606755433  
+💼 **LinkedIn**: [Sumith Devadiga](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)  
+📍 **Location**: Mangalore, India  
 
 ---
 ⭐ **Let's connect and build amazing things together!** 🚀
