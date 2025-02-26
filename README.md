@@ -8,6 +8,11 @@
 
 ---
 
+## 🏆 About Me  
+I'm a passionate developer who enjoys building AI-driven solutions and optimizing software applications. My expertise includes **React.js, Python, Java, and Machine Learning**, and I love working on innovative projects.
+
+---
+
 ## 🛠 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -24,15 +29,11 @@
 ### **🚀 Legacy Code Migration using ML**  
 🔹 AI-driven solution for automating the migration of **legacy code** from Delphi, Cobol, and VB to **modern languages like Python & Java**.  
 🔹 **Technologies:** Python, Machine Learning, Flask, React.js  
-
 🔗 [GitHub Repo](https://github.com/Sumith-2003/Legacy-Code-Migration)  
-
----
 
 ### **🛳 Cargo Connect**  
 🔹 A **logistics platform** that connects shippers and carriers across India.  
 🔹 **Technologies:** React.js, Node.js, Express.js, MongoDB  
-
 🔗 [GitHub Repo](https://github.com/Sumith-2003/Cargo-Connect)  
 
 ---
@@ -51,7 +52,7 @@
 
 ---
 
-🔥 **Let's build something amazing together!** 🚀  
+🔥 **Let's build something amazing together!** 🚀
 
 
 <!--
