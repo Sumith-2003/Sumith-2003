@@ -58,17 +58,17 @@ Tech Stack & Skills 💻
 <br>
 
 
-<div align="center">
+<div align="left">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr3s1&theme=react&hide_border=true" alt="rr3s1's GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="rr3s1's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumith-2003&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Sumith's GitHub Stats" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumith-2003&theme=react&hide_border=true" alt="Sumith's GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumith-2003&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="Sumith's GitHub Stats" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rr3s1&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumith-2003&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
 </p>
 
 <br>
