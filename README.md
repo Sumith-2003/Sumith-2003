@@ -5,10 +5,8 @@
 </p>
  <br>
 
-
-<h3 align="left">
-  I'm a passionate developer actively honing my skills in Full Stack Web Development, DBMS, Networking, and Machine Learning. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Angular and .NET to create engaging digital experiences.
-</h3>
+## Hey 👋, I'm Sumith!
+I am a **passionate developer** actively honing my skills in **Full Stack Web Development**, **DBMS**, **Networking**, and **Machine Learning**. I **enjoy** building scalable applications and optimizing system performance by leveraging technologies like **Angular** and **.NET** to create engaging digital experiences. Check out my [Resume](https://drive.google.com/file/d/1dHqJAoHivNkJjMzyfLX-rumnjescG9iI/view)
 
 <br>
 <h1 align="left">
@@ -16,7 +14,7 @@ Tech Stack & Skills 💻
 </h1>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,docker,dotnet,nodejs,git,postman,aws,postgres,mongodb,redis,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,angular,docker,dotnet,nodejs,git,postman,mysql,postgres,mongodb,python&theme=dark" />
 </div>
 
 <br>
@@ -24,8 +22,8 @@ Tech Stack & Skills 💻
 <h2 align="left">🎯 Current Focus</h2>
 <div align="left">
   <ul style="list-style-type: none; padding: 0;">
-    <h3>🔭 Working on <strong>Web Apps AI Integration</strong></h3>
-    <h3>👯 Looking to collaborate on <strong>Open Source Projects</strong></h3>
+    <h3>🔭 Working on <strong>.NET project</strong></h3>
+    <h3>👯 Open to collaborate on <strong> Projects</strong></h3>
   </ul>
 </div>
 <br><br>
@@ -71,20 +69,15 @@ Tech Stack & Skills 💻
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumith-2003&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
 </p>
 
-<br>
+---
 
-<div align="center">
-  
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-  ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
-  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-  ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000)
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-  ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)
-  ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-  
-</div>
+### 📞 Contact Me
 
-<br>
+📧 **Email**: [sumith07devadiga@gmail.com](mailto:sumith07devadiga@gmail.com)  
+📞 **Phone**: +91 9606755433  
+💼 **LinkedIn**: [Sumith Devadiga](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)  
+📍 **Location**: Mangalore, India  
+---
+⭐ **Let's connect and build amazing things together!** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170§ion=footer" width="150%"/>
