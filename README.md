@@ -70,13 +70,14 @@ Tech Stack & Skills 💻
 </p>
 
 ---
-
+<br>
 ### 📞 Contact Me
 
 📧 **Email**: [sumith07devadiga@gmail.com](mailto:sumith07devadiga@gmail.com)  
 📞 **Phone**: +91 9606755433  
 💼 **LinkedIn**: [Sumith Devadiga](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)  
 📍 **Location**: Mangalore, India  
+</br>
 ---
 ⭐ **Let's connect and build amazing things together!** 🚀
 
