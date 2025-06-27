@@ -9,9 +9,9 @@
 I am a **passionate developer** actively honing my skills in **Full Stack Web Development**, **DBMS**, **Networking**, and **Machine Learning**. I **enjoy** building scalable applications and optimizing system performance by leveraging technologies like **Angular** and **.NET** to create engaging digital experiences. Check out my [Resume](https://drive.google.com/file/d/1dHqJAoHivNkJjMzyfLX-rumnjescG9iI/view)
 
 <br>
-<h1 align="left">
+<h2 align="left">
 Tech Stack & Skills 💻
-</h1>
+</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,cs,angular,docker,dotnet,nodejs,git,postman,mysql,postgres,mongodb,python&theme=dark" />
