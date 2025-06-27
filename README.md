@@ -11,12 +11,12 @@
 </h3>
 
 <br>
-<h1 align="center">
-💻 Tech Stack & Skills 💻
+<h1 align="left">
+Tech Stack & Skills 💻
 </h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,docker,dotnet,nodejs,git,postman,aws,postgres,mongodb,redis,python&perline=6" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,docker,dotnet,nodejs,git,postman,aws,postgres,mongodb,redis,python&theme=dark" />
 </div>
 
 <br>
@@ -30,28 +30,28 @@
 </div>
 <br><br>
 
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">Here are a few projects I've worked on, primarily as part of my learning journey. Full details and code are available in the repositories.</p>
+<h2 align="left">🚀 Featured Projects</h2>
+<p align="left">Here are a few projects I've worked on, primarily as part of my learning journey. Full details and code are available in the repositories.</p>
 
 <table align="center">
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Sumith-2003/Legacy-Code-Migration.git">Legacy Code Migration</a></h3>
-      <p align="center">An AI-driven solution to automate the migration of legacy code to modern technologies. It utilizes machine learning models like Deep Q-learning and Natural Language Understanding (NLU) to analyze and translate legacy code snippets.</p><br>
+      <p align="center">An AI-driven solution to automate the migration of legacy code to modern technologies. It utilizes machine learning models like Deep Q-learning and Natural Language Understanding (NLU) for translation.</p><br>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/rr3s1/BookWise-Uni-Library">University Library System</a></h3>
-      <p align="center">Production-grade library platform with public/admin interfaces, book borrowing workflows, reminders via Resend, and robust user management using Next.js, TypeScript, PostgreSQL (NeonDB), Upstash (Redis), Drizzle ORM and ImageKit.</p><br>
+      <h3 align="center"><a href="https://github.com/Sumith-2003/BLOG-APP.git">Blog Application</a></h3>
+      <p align="center">A Full-stack blog application that allows users to create, read, update, and delete blog posts. It consists of a React.js frontend and a Node.js/Express.js backend.</p><br>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">File Storage & Sharing Platform</a></h3>
-      <p align="center">A platform for file uploads, management, sharing and viewing using Next.js 15, React 19, Appwrite, TailwindCSS, ShadCN and TypeScript. Features include user auth, file operations and a dashboard.</p><br>
+      <p align="center">A responsive web application designed to help users analyze and track food nutrition through the power of AI and real-time data.</p><br>
     </td>
     <td width="50%">
-       <h3 align="center"><a href="https://github.com/rr3s1/portfoli0_jsm">Modern Next.js Portfolio</a></h3>
-       <p align="center">An interactive portfolio landing page built with Next.js, Three.js for 3D elements, Framer Motion for animations, and TailwindCSS. Showcases modern frontend techniques and complex layouts like Bento Grids.</p><br>
+       <h3 align="center"><a href="https://github.com/Sumith-2003/TaskManager.git">Task Manager</a></h3>
+       <p align="center">A simple task management web application built using the MERN stack (MongoDB, Express.js, React, Node.js) with role-based authentication.</p><br>
     </td>
   </tr>
 </table>
