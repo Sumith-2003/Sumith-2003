@@ -6,8 +6,8 @@
  <br>
 
 
-<h3 align="center">
-  I'm a passionate developer actively honing my skills in **Full Stack Web Development**, **DBMS**, **Networking**, and **Machine Learning**. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Angular and .NET to create engaging digital experiences.
+<h3 align="left">
+  I'm a passionate developer actively honing my skills in Full Stack Web Development, DBMS, Networking, and Machine Learning. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Angular and .NET to create engaging digital experiences.
 </h3>
 
 <br>
@@ -16,7 +16,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,docker,dotnet,nodejs,git,docker,aws,postgres,mongodb,redis,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,angular,docker,dotnet,nodejs,git,postman,aws,postgres,mongodb,redis,python&perline=6" />
 </div>
 
 <br>
@@ -36,8 +36,8 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">Healthcare Management System</a></h3>
-      <p align="center">A full-stack patient management system allowing appointment booking, admin management and SMS notifications. Demonstrates skills in Next.js, TypeScript, Appwrite, TailwindCSS, ShadCN, and Twilio integration.</p><br>
+      <h3 align="center"><a href="https://github.com/Sumith-2003/Legacy-Code-Migration.git">Legacy Code Migration</a></h3>
+      <p align="center">An AI-driven solution to automate the migration of legacy code to modern technologies. It utilizes machine learning models like Deep Q-learning and Natural Language Understanding (NLU) to analyze and translate legacy code snippets.</p><br>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/rr3s1/BookWise-Uni-Library">University Library System</a></h3>
