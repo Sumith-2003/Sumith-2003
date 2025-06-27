@@ -44,7 +44,7 @@ Tech Stack & Skills 💻
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">File Storage & Sharing Platform</a></h3>
+      <h3 align="center"><a href="https://github.com/Sumith-2003/Food-Nutrition-Analysis.git">Food Nutrition Analysis</a></h3>
       <p align="center">A responsive web application designed to help users analyze and track food nutrition through the power of AI and real-time data.</p><br>
     </td>
     <td width="50%">
