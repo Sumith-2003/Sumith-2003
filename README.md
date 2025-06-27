@@ -61,7 +61,7 @@ Tech Stack & Skills 💻
 <div align="left">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sumith-2003&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Sumith's GitHub Stats" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumith-2003&theme=react&hide_border=true" alt="Sumith's GitHub Streak" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Sumith-2003&theme=react&hide_border=true" alt="Sumith's GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumith-2003&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="Sumith's GitHub Stats" />
 </div>
 
