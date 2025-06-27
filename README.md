@@ -21,8 +21,8 @@ Tech Stack & Skills 💻
 
 <br>
 <br>
-<h2 align="center">🎯 Current Focus</h2>
-<div align="center">
+<h2 align="left">🎯 Current Focus</h2>
+<div align="left">
   <ul style="list-style-type: none; padding: 0;">
     <h3>🔭 Working on <strong>Web Apps AI Integration</strong></h3>
     <h3>👯 Looking to collaborate on <strong>Open Source Projects</strong></h3>
@@ -31,7 +31,7 @@ Tech Stack & Skills 💻
 <br><br>
 
 <h2 align="left">🚀 Featured Projects</h2>
-<p align="left">Here are a few projects I've worked on, primarily as part of my learning journey. Full details and code are available in the repositories.</p>
+<p align="left">Here are a few projects I've worked on, primarily as part of my learning journey. The details and code are available in my repositories.</p>
 
 <table align="center">
   <tr>
