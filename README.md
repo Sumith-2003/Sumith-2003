@@ -6,9 +6,9 @@
  <br>
 
 
-<h3 align="left">
+<h4 align="left">
   I'm a passionate developer actively honing my skills in Full Stack Web Development, DBMS, Networking, and Machine Learning. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Angular and .NET to create engaging digital experiences.
-</h3>
+</h4>
 
 <br>
 <h1 align="left">
