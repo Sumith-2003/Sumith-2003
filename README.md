@@ -70,14 +70,15 @@ Tech Stack & Skills 💻
 </p>
 
 ---
-<br>
-### 📞 Contact Me
+<h3 style="font-size: 20px;">📞 Contact Me</h3>
 
-📧 **Email**: [sumith07devadiga@gmail.com](mailto:sumith07devadiga@gmail.com)  
-📞 **Phone**: +91 9606755433  
-💼 **LinkedIn**: [Sumith Devadiga](https://www.linkedin.com/in/sumith-devadiga-a3a316231/)  
-📍 **Location**: Mangalore, India  
-</br>
+<p style="font-size: 14px; line-height: 1.6;">
+  📧 <strong>Email</strong>: <a href="mailto:sumith07devadiga@gmail.com">sumith07devadiga@gmail.com</a><br>
+  📞 <strong>Phone</strong>: +91 9606755433<br>
+  💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sumith-devadiga-a3a316231/">Sumith Devadiga</a><br>
+  📍 <strong>Location</strong>: Mangalore, India
+</p>
+
 ---
 ⭐ **Let's connect and build amazing things together!** 🚀
 
