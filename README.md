@@ -22,7 +22,7 @@ Tech Stack & Skills 💻
 <h2 align="left">🎯 Current Focus</h2>
 <div align="left">
   <ul style="list-style-type: none; padding: 0;">
-    <h3>🔭 Working on <strong>.NET project</strong></h3>
+    <h3>🔭 Working on Full-stack <strong>.NET project</strong></h3>
     <h3>👯 Open to collaborate on <strong> Projects</strong></h3>
   </ul>
 </div>
